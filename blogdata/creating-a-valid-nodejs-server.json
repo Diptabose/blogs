@@ -1,0 +1,7 @@
+{
+    "title":"Creating a valid nodejs server",
+    "content":"Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages. Wikipedia",
+    "author":"Jakka Arun",
+    "time":"26th Jan 2000 , 5:30am",
+    "slug":"creating-a-valid-nodejs-server"
+}
